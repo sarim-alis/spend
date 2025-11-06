@@ -6,6 +6,8 @@
     Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
     documentation
   </p>
+  <h1 class="text-3xl font-bold text-blue-600">Tailwind 4 Working!</h1>
+
 </template>
 
 <style scoped></style>
